@@ -5,3 +5,7 @@ Although process-based distributed hydrological models (PDHMs) are evolving rapi
 # Citation
 More information about the model, please refer to:
 > Zhang L, Nan Z, Liang X, et al. Application of the MacCormack scheme to overland flow routing for high-spatial resolution distributed hydrological model. Journal of Hydrology, 2018, 558:421-431.
+
+
+# Flow chart of the overland flow routing in DHSVM-MacCormack
+![Overland flow routing](https://github.com/zhanglingky/DHSVM-MacCormack/blob/master/DHSVM-maccormack.png)
